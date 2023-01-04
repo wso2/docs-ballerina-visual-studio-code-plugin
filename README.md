@@ -1,7 +1,5 @@
 # Ballerina VSCode Documentation
 
-# Choreo Documentation
-
 This is the Ballerina VS Code plugin documentation repository. This repository is open and we welcome your contributions! 
 
 ## Contribute to VS Code plugin documentation
