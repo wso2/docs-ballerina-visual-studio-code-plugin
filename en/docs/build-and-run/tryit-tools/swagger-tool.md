@@ -13,7 +13,6 @@ service / on new http:Listener(9090) {
         return "Hello, World!";
     }
 }
-    
 ```
 
 ## Try the HTTP service

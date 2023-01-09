@@ -20,7 +20,6 @@ service / on new graphql:Listener(8090) {
         return "Hello, " + name;
     }
 }
-    
 ```
 
 ## Try the GraphQL service

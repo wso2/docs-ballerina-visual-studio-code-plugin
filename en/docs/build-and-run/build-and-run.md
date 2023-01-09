@@ -4,6 +4,8 @@ Follow the steps below to create a sample Ballerina program in VS Code.
 
 ## Use the Code View
 
+Follow the steps given below to build and run the Ballerina program from the code view.
+
 >**Note:** Skip 1-3 steps if you already have a Ballerina code.
   
 1. Click **View** in the menu bar of the editor, and click **Command Palette**.
@@ -29,6 +31,8 @@ Follow the steps below to create a sample Ballerina program in VS Code.
         ![Run button](../img/run-button.png?raw=true)
 
 ## Use the Diagram View
+
+Follow the steps given below to build and run the Ballerina program from the diagram view.
   
 1. View the diagram:
 
