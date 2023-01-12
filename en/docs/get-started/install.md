@@ -1,18 +1,28 @@
-# Install Ballerina plugin
+# Install the Ballerina extension
 
-## Setting up the prerequisites
+Follow the instructions given below to install and set up the Ballerina extension on your VS Code editor. 
 
-1. Make sure you have installed the [Visual Studio Code editor](https://code.visualstudio.com/download) version `1.60.0` or later.
+## Prerequisites
 
-2. Download and install [Ballerina](https://ballerina.io/downloads/).
+Before you get started:
 
-## Installing the Ballerina extension
- 
-1. Install the Ballerina VS Code Extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=WSO2.ballerina). 
+-	Make sure you have installed the [Visual Studio Code editor](https://code.visualstudio.com/download) version `1.60.0` or a later version.
 
-3. Open a Ballerina `(.bal)` file or a [Ballerina Package](https://ballerina.io/learn/package-references/) to activate the extension.
+-	Download and install [Ballerina](https://ballerina.io/downloads/).
 
-	>**Info:** When the extension is activated properly, you can see the `Ballerina SDK: <version>` in the status bar at the bottom left corner.
+## Install the Ballerina extension
+
+To install and activate the extension:
+
+1. Install the Ballerina VS Code extension from the [marketplace](https://marketplace.visualstudio.com/items?itemName=WSO2.ballerina). 
+
+	> **Info:**
+	> Alternatively, you can do this from the **Extensions** activity bar in your VS Code editor. [Learn more](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-an-extension).
+
+2. Open a Ballerina `(.bal)` file or a [Ballerina package](https://ballerina.io/learn/package-references/) to activate the extension.
+
+	>**Info:**
+	>When the extension is activated properly, you will see `Ballerina SDK: <version>` in the status bar as shown below.
 
 	<img src="https://github.com/wso2/ballerina-plugin-vscode/blob/main/resources/images/show-version-on-vscode.png?raw=true" width="70%" />
 
